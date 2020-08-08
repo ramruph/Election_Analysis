@@ -28,7 +28,10 @@ The first modification would be to adjust the paths where the data is coming and
 
 For example- In the picture below you would want to create a seperate file for the .txt in order to record the data from the election results into different files in order to keep track and not overwrite any file.
 
+![](Resources/Screen%20Shot%202020-08-08%20at%202.36.08%20PM.png)
 
 Also, since this script intakes a CSV file and records data from that sheet the first modification is to make sure the code will pull the right data when assinging it to the list. 
 
-For example:
+For example- In the picture below the candidate name is being pulled from the 3rd column  in the CSV or by index 2. If the data file has a different value in those cells then the script won't work properly. By adjusting where the information is being pulled will enable the code to work on any election data.
+
+![](Resources/Screen%20Shot%202020-08-08%20at%202.35.14%20PM.png)
