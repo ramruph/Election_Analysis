@@ -10,18 +10,14 @@ The Election Audit analysis was performed to get the Election Results from a CSV
 
     - There were a total of 369,711 votes 
     
-    - The total votes for each county in the precinct is as follows:
-    
-      
-
-
-
     - Denver had the highest number of votes (306,055)
 
-    - Number of votes and percentage of total votes for each candidate is as follows:
-
-
     - The winner of the election is Diana DeGette coming in with 272,892 votes which made up 73.8% of the votes
+    
+    
+    - Number of votes, percentage of total votes for each candidate, and total votes for each county is as follows:
+
+![](resources/Screen Shot 2020-08-08 at 2.38.50 PM.png)
 
 
 
