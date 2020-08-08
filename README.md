@@ -17,7 +17,7 @@ The Election Audit analysis was performed to get the Election Results from a CSV
     
     - Number of votes, percentage of total votes for each candidate, and total votes for each county is as follows:
 
-![](resources/Screen Shot 2020-08-08 at 2.38.50 PM.png)
+![](Resources/Screen%20Shot%202020-08-08%20at%202.38.50%20PM.png)
 
 
 
